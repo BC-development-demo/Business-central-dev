@@ -1,5 +1,6 @@
 codeunit 65406 "SingleInstanceCodeUnit"
 {
+    // this is error
     SingleInstance = true;
     trigger OnRun()
     begin
