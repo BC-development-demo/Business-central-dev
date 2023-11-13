@@ -10,6 +10,7 @@ codeunit 65406 "SingleInstanceCodeUnit"
     var
         a: Integer;
 
+// sub-branch-1-from-main
     procedure SetValue(Number: Integer): Integer
 
     begin
@@ -17,4 +18,6 @@ codeunit 65406 "SingleInstanceCodeUnit"
     end;
 
     // this is change...
+//=======
+     //main
 }
