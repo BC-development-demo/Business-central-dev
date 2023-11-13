@@ -16,5 +16,5 @@ codeunit 65406 "SingleInstanceCodeUnit"
         a := Number;
     end;
 
-    
+    // this is change...
 }
