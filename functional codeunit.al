@@ -8,6 +8,6 @@ codeunit 65406 "SingleInstanceCodeUnit"
 
     var
         a: Integer;
+    // this is comment
 
-    
 }
