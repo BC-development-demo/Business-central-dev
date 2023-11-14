@@ -13,9 +13,9 @@ codeunit 50100 TestFunction
         MyText, MyChar : Text;
     //test
     local procedure MyTestFunction()
-    //delete all var
-        
+    //add new var
+    Mytest: Text;
     begin
-        
+
     end;
 }
