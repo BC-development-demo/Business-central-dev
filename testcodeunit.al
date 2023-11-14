@@ -14,10 +14,8 @@ codeunit 50100 TestFunction
     //test
     local procedure MyTestFunction()
     var
-        j: Integer;
+        
     begin
-        for j := 1 to 5 do begin
-            Message('%1', j);
-        end;
+        
     end;
 }
