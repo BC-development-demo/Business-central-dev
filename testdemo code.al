@@ -12,9 +12,5 @@ codeunit 50100 TestFunction
         MyTestChar: List of [Text];
         MyText, MyChar : Text;
     //test
-    local procedure MyTestFunction()
-    var
-        i: Integer;
-    begin
-    end;
+
 }
