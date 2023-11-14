@@ -16,6 +16,6 @@ codeunit 50100 TestFunction
     //add new var
     Mytest: Text;
     begin
-
+        Mytest := 'Hello world';
     end;
 }
