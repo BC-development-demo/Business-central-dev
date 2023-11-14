@@ -13,9 +13,9 @@ codeunit 50100 TestFunction
         MyText, MyChar : Text;
     //test
     local procedure MyTestFunction()
-    //add new var
-    Mytest: Text;
+    // Add new text var MyNameText
+    MyNameText: Text;
     begin
-        Mytest := 'Hello world';
+        MyNameText := 'Hello Vidura';
     end;
 }
