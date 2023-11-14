@@ -13,7 +13,7 @@ codeunit 50100 TestFunction
         MyText, MyChar : Text;
     //test
     local procedure MyTestFunction()
-    var
+    //delete all var
         
     begin
         
