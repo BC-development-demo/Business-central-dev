@@ -13,8 +13,7 @@ codeunit 50100 TestFunction
         MyText, MyChar : Text;
     //test
     local procedure MyTestFunction()
-    var
-        myInt: Integer;
+
     begin
 
     end;
