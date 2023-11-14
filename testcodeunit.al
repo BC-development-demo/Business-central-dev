@@ -17,7 +17,7 @@ codeunit 50100 TestFunction
         i: Integer;
     begin
         for i := 1 to 5 do begin
-        Message('%1', i);
-    end;
+            Message('%1', i);
+        end;
     end;
 }
