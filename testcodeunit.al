@@ -13,11 +13,9 @@ codeunit 50100 TestFunction
         MyText, MyChar : Text;
     //test
     local procedure MyTestFunction()
-    var
-        j: Integer;
+    //delete all var
+        
     begin
-        for j := 1 to 5 do begin
-            Message('%1', j);
-        end;
+        
     end;
 }
